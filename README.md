@@ -1,5 +1,6 @@
-# fsdse-python-assignment-180
-## Print all permutations of a string	
+# Print all permutations of a string
+
+## Constraints
 * Can the input have duplicates?
   * Yes
 * Can the output have duplicates?
